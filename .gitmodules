@@ -3,7 +3,7 @@
     url = https://github.com/wjakob/nanovg
 [submodule "glfw"]
     path = ext/glfw
-    url = https://github.com/wjakob/glfw
+    url = https://github.com/shibukawa/glfw-1
 [submodule "glew"]
     path = ext/glew
     url = https://github.com/nigels-com/glew
